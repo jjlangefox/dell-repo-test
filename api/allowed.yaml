@@ -1,0 +1,11 @@
+openapi: "3.0.0"
+info:
+  title: Allowed API
+  version: 1.0.0
+paths:
+  /allowed:
+    get:
+      summary: Get allowed
+      responses:
+        "200":
+          description: OK
