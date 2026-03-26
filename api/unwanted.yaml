@@ -2,4 +2,10 @@ openapi: "3.0.0"
 info:
   title: Unwanted API
   version: 1.0.0
-paths: {}
+paths:
+  /orders:
+    get:
+      summary: Get orders
+      responses:
+        "200":
+          description: OK
