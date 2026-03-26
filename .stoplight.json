@@ -2,7 +2,7 @@
   "formats": {
     "openapi": {
       "rootDir": "api",
-      "include": ["users.yaml", "unwanted.yaml"]
+      "include": ["unwanted.yaml"]
     }
   }
 }
