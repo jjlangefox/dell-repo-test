@@ -1,6 +1,6 @@
 openapi: "3.0.0"
 info:
-  title: Another rly Unwanted API
+  title: Another Unwanted API
   version: 1.0.0
 paths:
   /products:
