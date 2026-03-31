@@ -3,7 +3,7 @@
     "openapi": {
       "rootDir": "api",
       "include": [
-        "allowed.yaml"
+        "api/allowed.yaml"
       ]
     }
   }
