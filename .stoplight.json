@@ -1,7 +1,7 @@
 {
   "formats": {
     "openapi": {
-      "rootDir": "api",
+      "rootDir": "api/",
       "include": [
         "api/allowed.yaml"
       ]
